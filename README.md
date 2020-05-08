@@ -3,7 +3,7 @@
  Atividade API REST - Programação WEB
 </h4>
 
-<img alt="Form" title="#form" src=".github/form.png" width="250px" />
+<img alt="Form" title="#form" src=".github/form.png" />
 
 <br>
 
